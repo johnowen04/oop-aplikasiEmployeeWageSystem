@@ -1,0 +1,48 @@
+K:\.lama\C# Apps\tugas oop\employeeWage\john_EmployeeWageSystem\bin\Debug\john_EmployeeWageSystem.exe.config
+K:\.lama\C# Apps\tugas oop\employeeWage\john_EmployeeWageSystem\bin\Debug\john_EmployeeWageSystem.exe
+K:\.lama\C# Apps\tugas oop\employeeWage\john_EmployeeWageSystem\bin\Debug\john_EmployeeWageSystem.pdb
+K:\.lama\C# Apps\tugas oop\employeeWage\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.csprojAssemblyReference.cache
+K:\.lama\C# Apps\tugas oop\employeeWage\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.FormDisplayEmployee.resources
+K:\.lama\C# Apps\tugas oop\employeeWage\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.FormInputEmployee.resources
+K:\.lama\C# Apps\tugas oop\employeeWage\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.FormMenu.resources
+K:\.lama\C# Apps\tugas oop\employeeWage\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.Properties.Resources.resources
+K:\.lama\C# Apps\tugas oop\employeeWage\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.csproj.GenerateResource.cache
+K:\.lama\C# Apps\tugas oop\employeeWage\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.csproj.CoreCompileInputs.cache
+K:\.lama\C# Apps\tugas oop\employeeWage\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.exe
+K:\.lama\C# Apps\tugas oop\employeeWage\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.pdb
+K:\.lama\C# Apps\tugas oop\employeeWage\week 10\10b\john_EmployeeWageSystem\bin\Debug\john_EmployeeWageSystem.exe.config
+K:\.lama\C# Apps\tugas oop\employeeWage\week 10\10b\john_EmployeeWageSystem\bin\Debug\john_EmployeeWageSystem.exe
+K:\.lama\C# Apps\tugas oop\employeeWage\week 10\10b\john_EmployeeWageSystem\bin\Debug\john_EmployeeWageSystem.pdb
+K:\.lama\C# Apps\tugas oop\employeeWage\week 10\10b\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.csprojAssemblyReference.cache
+K:\.lama\C# Apps\tugas oop\employeeWage\week 10\10b\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.FormDisplayEmployee.resources
+K:\.lama\C# Apps\tugas oop\employeeWage\week 10\10b\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.FormInputEmployee.resources
+K:\.lama\C# Apps\tugas oop\employeeWage\week 10\10b\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.FormMenu.resources
+K:\.lama\C# Apps\tugas oop\employeeWage\week 10\10b\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.Properties.Resources.resources
+K:\.lama\C# Apps\tugas oop\employeeWage\week 10\10b\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.csproj.GenerateResource.cache
+K:\.lama\C# Apps\tugas oop\employeeWage\week 10\10b\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.csproj.CoreCompileInputs.cache
+K:\.lama\C# Apps\tugas oop\employeeWage\week 10\10b\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.exe
+K:\.lama\C# Apps\tugas oop\employeeWage\week 10\10b\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.pdb
+K:\.lama\C# Apps\tugas oop\employeeWage\week 12\12a\john_EmployeeWageSystem\bin\Debug\john_EmployeeWageSystem.exe.config
+K:\.lama\C# Apps\tugas oop\employeeWage\week 12\12a\john_EmployeeWageSystem\bin\Debug\john_EmployeeWageSystem.exe
+K:\.lama\C# Apps\tugas oop\employeeWage\week 12\12a\john_EmployeeWageSystem\bin\Debug\john_EmployeeWageSystem.pdb
+K:\.lama\C# Apps\tugas oop\employeeWage\week 12\12a\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.csprojAssemblyReference.cache
+K:\.lama\C# Apps\tugas oop\employeeWage\week 12\12a\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.FormDisplayEmployee.resources
+K:\.lama\C# Apps\tugas oop\employeeWage\week 12\12a\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.FormInputEmployee.resources
+K:\.lama\C# Apps\tugas oop\employeeWage\week 12\12a\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.FormMenu.resources
+K:\.lama\C# Apps\tugas oop\employeeWage\week 12\12a\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.Properties.Resources.resources
+K:\.lama\C# Apps\tugas oop\employeeWage\week 12\12a\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.csproj.GenerateResource.cache
+K:\.lama\C# Apps\tugas oop\employeeWage\week 12\12a\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.csproj.CoreCompileInputs.cache
+K:\.lama\C# Apps\tugas oop\employeeWage\week 12\12a\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.exe
+K:\.lama\C# Apps\tugas oop\employeeWage\week 12\12a\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.pdb
+K:\.lama\C# Apps\tugas oop\employeeWage\12a\john_EmployeeWageSystem\bin\Debug\john_EmployeeWageSystem.exe.config
+K:\.lama\C# Apps\tugas oop\employeeWage\12a\john_EmployeeWageSystem\bin\Debug\john_EmployeeWageSystem.exe
+K:\.lama\C# Apps\tugas oop\employeeWage\12a\john_EmployeeWageSystem\bin\Debug\john_EmployeeWageSystem.pdb
+K:\.lama\C# Apps\tugas oop\employeeWage\12a\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.csprojAssemblyReference.cache
+K:\.lama\C# Apps\tugas oop\employeeWage\12a\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.FormDisplayEmployee.resources
+K:\.lama\C# Apps\tugas oop\employeeWage\12a\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.FormInputEmployee.resources
+K:\.lama\C# Apps\tugas oop\employeeWage\12a\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.FormMenu.resources
+K:\.lama\C# Apps\tugas oop\employeeWage\12a\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.Properties.Resources.resources
+K:\.lama\C# Apps\tugas oop\employeeWage\12a\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.csproj.GenerateResource.cache
+K:\.lama\C# Apps\tugas oop\employeeWage\12a\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.csproj.CoreCompileInputs.cache
+K:\.lama\C# Apps\tugas oop\employeeWage\12a\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.exe
+K:\.lama\C# Apps\tugas oop\employeeWage\12a\john_EmployeeWageSystem\obj\Debug\john_EmployeeWageSystem.pdb
